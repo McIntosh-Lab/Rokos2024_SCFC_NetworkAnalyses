@@ -47,7 +47,7 @@ end
 %% FC Community
 FC_community=[];
 FC_M=[];
-gamma = 3;
+gamma = 1;
 for s=1:78
     %Set Diagonal to 0
     A=FC_matrices{s};
